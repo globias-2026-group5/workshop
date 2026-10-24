@@ -37,7 +37,7 @@ Conventions: one topic per issue; paste LLM prompts and answers verbatim; action
 | repository | what it holds |
 |---|---|
 | [ilastik-mitocheck-run](https://github.com/globias-2026-group5/ilastik-mitocheck-run) | One LLM agent (Claude) running ilastik's MitoCheck cell-tracking example end to end, with every step, error and result documented |
-| [ilastik-agent-benchmark](https://github.com/globias-2026-group5/ilastik-agent-benchmark) | That run compared with four later sessions: two reproductions and two "blind" runs on the Group 5 question |
+| [agent-benchmark-ilastik-tracking](https://github.com/globias-2026-group5/agent-benchmark-ilastik-tracking) | That run compared with four later sessions: two reproductions and two "blind" runs on the Group 5 question |
 | [shape-analysis-field-guide](https://github.com/globias-2026-group5/shape-analysis-field-guide) | A plain-language guide to the Shape Analysis 101 tutorial, with the [published site](https://globias-2026-group5.github.io/shape-analysis-field-guide/) |
 
 ## Reading (from the session document)

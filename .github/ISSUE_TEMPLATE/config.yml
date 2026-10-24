@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/globias-2026-group5/ilastik-mitocheck-run/issues
     about: Report it in the ilastik-mitocheck-run repository.
   - name: The agent benchmark
-    url: https://github.com/globias-2026-group5/ilastik-agent-benchmark
+    url: https://github.com/globias-2026-group5/agent-benchmark-ilastik-tracking
     about: The comparison of the five ilastik sessions.
