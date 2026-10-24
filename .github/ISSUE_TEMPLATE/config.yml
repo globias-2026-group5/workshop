@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Problem with the ilastik MitoCheck run (scripts, results)
+    url: https://github.com/globias-2026-group5/ilastik-mitocheck-run/issues
+    about: Report it in the ilastik-mitocheck-run repository.
+  - name: The agent benchmark
+    url: https://github.com/globias-2026-group5/ilastik-agent-benchmark
+    about: The comparison of the five ilastik sessions.
